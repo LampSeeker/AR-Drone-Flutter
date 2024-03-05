@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532495532919",
+    "project_id": "ar-drone-flutter-18260",
+    "storage_bucket": "ar-drone-flutter-18260.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532495532919:android:6a0bc6cc983cb970415772",
+        "android_client_info": {
+          "package_name": "com.example.ar_drone_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqeDVWp9WduvQnh1ad0eSiboZxBKrG4-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
